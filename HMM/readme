@@ -1,4 +1,4 @@
-HMM automatic word segmentation
+Chinese automatic segmentation based on Hidden Markov model
 
 
 Frequency.py：获取所有词性和其频次统计
